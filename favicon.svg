@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Onyx Black Rounded Box -->
+  <rect width="512" height="512" rx="128" fill="#09090B"/>
+  
+  <!-- Solid Renza Yellow 'R' Emblem -->
+  <path d="M 140 120 L 290 120 C 350 120 390 155 390 215 C 390 265 355 300 300 308 L 395 400 L 315 400 L 235 315 L 210 315 L 210 400 L 140 400 Z M 210 180 L 210 260 L 285 260 C 315 260 330 245 330 220 C 330 195 315 180 285 180 Z" fill="#FACC15"/>
+</svg>

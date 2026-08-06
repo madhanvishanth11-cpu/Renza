@@ -1,0 +1,174 @@
+{
+  "products": [
+    {
+      "id": "item-1",
+      "title": "Sony FX3 Full-Frame Cinema Camera Package",
+      "description": "Complete production-ready Sony FX3 cinema camera kit including XLR top handle unit, 2x 160GB CFexpress Type A cards, 3x NP-FZ100 batteries, dual fast charger, and Pelican 1510 waterproof hard case.",
+      "pricePerDay": 145,
+      "securityDeposit": 200,
+      "category": "Cameras & Cinema",
+      "location": "San Francisco, CA",
+      "rating": 4.98,
+      "reviewsCount": 42,
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1589578527966-fdac0f44566c?auto=format&fit=crop&w=800&q=80"
+      ],
+      "host": {
+        "id": "user-1",
+        "name": "Marcus Vance",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+        "isSuperhost": true
+      },
+      "isInstantBook": true,
+      "isTrending": true
+    },
+    {
+      "id": "item-2",
+      "title": "Apple Vision Pro 512GB (Spatial Computer Kit)",
+      "description": "Experience revolutionary spatial computing with Apple Vision Pro 512GB. Includes Dual Loop Band, Solo Knit Band, External Battery Pack, Developer Strap, and Travel Case.",
+      "pricePerDay": 180,
+      "securityDeposit": 300,
+      "category": "Tech & Gaming",
+      "location": "Silicon Valley, CA",
+      "rating": 4.95,
+      "reviewsCount": 28,
+      "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80"
+      ],
+      "host": {
+        "id": "user-2",
+        "name": "Elena Rostova",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&q=80",
+        "isSuperhost": true
+      },
+      "isInstantBook": true,
+      "isTrending": true
+    },
+    {
+      "id": "item-3",
+      "title": "2024 Porsche Taycan Turbo S Electric Sedan",
+      "description": "750 HP electric performance sedan featuring Launch Control, Porsche Active Suspension Management, Burmester 3D Surround Sound, and 280+ mile range.",
+      "pricePerDay": 320,
+      "securityDeposit": 500,
+      "category": "EVs & Vehicles",
+      "location": "San Francisco, CA",
+      "rating": 4.99,
+      "reviewsCount": 19,
+      "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80"
+      ],
+      "host": {
+        "id": "user-3",
+        "name": "Julian Sterling",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+        "isSuperhost": true
+      },
+      "isInstantBook": false,
+      "isTrending": true
+    },
+    {
+      "id": "item-4",
+      "title": "DJI Inspire 3 RAW/ProRes 8K Drone Cinema Combo",
+      "description": "Commercial 8K full-frame aerial drone system equipped with Zenmuse X9-8K Air camera, 6x TB51 Intelligent Batteries, RC Plus Controller, and dual-operator monitors.",
+      "pricePerDay": 290,
+      "securityDeposit": 400,
+      "category": "Drones & Aviation",
+      "location": "Los Angeles, CA",
+      "rating": 4.97,
+      "reviewsCount": 34,
+      "image": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=800&q=80",
+      "images": [
+        "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "host": {
+        "id": "user-4",
+        "name": "Aria Chen",
+        "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=150&q=80",
+        "isSuperhost": true
+      },
+      "isInstantBook": true,
+      "isTrending": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Cameras & Cinema",
+      "icon": "📷",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 1240
+    },
+    {
+      "id": "cat-2",
+      "name": "Tech & Gaming",
+      "icon": "💻",
+      "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 890
+    },
+    {
+      "id": "cat-3",
+      "name": "EVs & Vehicles",
+      "icon": "⚡",
+      "image": "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 450
+    },
+    {
+      "id": "cat-4",
+      "name": "Drones & Aviation",
+      "icon": "🚁",
+      "image": "https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=800&q=80",
+      "itemCount": 620
+    }
+  ],
+  "users": [
+    {
+      "id": "user-1",
+      "name": "Marcus Vance",
+      "email": "marcus@renza.com",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+      "isSuperhost": true,
+      "rating": 4.99
+    },
+    {
+      "id": "user-renter",
+      "name": "Madhav Sharma",
+      "email": "madhav@renza.com",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+      "passportVerified": true,
+      "walletBalance": 240.0
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "userName": "Sarah Jenkins",
+      "userAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&q=80",
+      "rating": 5,
+      "date": "2 days ago",
+      "comment": "Pristine camera package! Marcus included memory cards and extra batteries."
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bk-101",
+      "listingId": "item-1",
+      "title": "Sony FX3 Cinema Camera Package",
+      "startDate": "2026-08-15",
+      "endDate": "2026-08-18",
+      "totalPrice": 478,
+      "status": "Confirmed"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "title": "Booking Approved",
+      "message": "Marcus accepted your Sony FX3 rental request.",
+      "time": "10m ago"
+    }
+  ]
+}
